@@ -4,3 +4,4 @@ scripts/.ipynb_checkpoints/
 *.err
 *.out
 checkpoints/
+closest_corner_data/
